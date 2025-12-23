@@ -61,4 +61,5 @@ Ich habe den **AI Software Development Bootcamp bei Le Wagon** abgeschlossen und
 
 - 📍 Deutschland  
 - 💻 GitHub: **@guilima90**  
-- ✉️ Email: starninoguilherme@gmail.com  
+- ✉️ Email: starninoguilherme@gmail.com
+  
