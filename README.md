@@ -40,13 +40,6 @@ Ich habe den **AI Software Development Bootcamp bei Le Wagon** abgeschlossen und
 
 ---
 
-## 📊 GitHub Statistiken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilima90&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilima90&layout=compact)
-
----
 
 ## 📫 Kontakt
 
