@@ -44,14 +44,11 @@ Ich habe den **AI Software Development Bootcamp bei Le Wagon** abgeschlossen und
 
 <p>
   <img
-    alt="GitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=guilima90&show_icons=true&theme=tokyonight&include_all_commits=true&locale=de"
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilima90&show_icons=true&theme=tokyonight&include_all_commits=true&locale=de)
+
   />
   <img
-    alt="Top Languages"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilima90&theme=tokyonight&layout=compact&langs_count=8"
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilima90&theme=tokyonight&layout=compact&langs_count=8)
   />
 </p>
 
